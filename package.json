@@ -1,0 +1,23 @@
+{
+  "name": "ludumdare39",
+  "version": "1.0.0",
+  "description": "Ludumdare39",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inspirsea/ludumdare39.git"
+  },
+  "keywords": [
+    "javascript",
+    "phaser"
+  ],
+  "author": "Emil Sunesson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inspirsea/ludumdare39/issues"
+  },
+  "homepage": "https://github.com/inspirsea/ludumdare39#readme"
+}
